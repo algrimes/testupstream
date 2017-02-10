@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Hagura?"
-date:   2016-09-18 23:34:56 +0530
+date: 2016-09-18 23:34:56 +0530
 ---
 
 
