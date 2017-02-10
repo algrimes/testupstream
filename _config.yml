@@ -15,7 +15,7 @@ markdown: kramdown
 analytics: blah
 
 # Comments
-disqus-shortname: al
+disqus-shortname: testupstream
 
 
 #optimization
