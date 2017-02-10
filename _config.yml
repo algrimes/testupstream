@@ -4,9 +4,9 @@ enforce_ssl: testupstream.com
 
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /testupstream # name of the repository
-email: your@email.com
+title: Upstream
+baseurl: / # name of the repository
+email: al@testupstream.com
 
 
 
