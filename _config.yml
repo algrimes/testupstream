@@ -5,7 +5,7 @@ enforce_ssl: testupstream.com
 ### your site title here
 
 title: Upstream
-baseurl: / # name of the repository
+baseurl: # name of the repository
 email: al@testupstream.com
 
 
