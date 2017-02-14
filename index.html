@@ -5,4 +5,5 @@ layout: default
 {% for post in site.posts %}
 <h3><article><header><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3></header>
 <div>{{post.content}}</div></article>
+{% include disqus.html %}
 {% endfor %}

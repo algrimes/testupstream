@@ -46,4 +46,4 @@ exclude:
 - README.md
 
 
-gems: [jekyll-seo-tag, jekyll-paginate]
+gems: [jekyll-seo-tag, jekyll-paginate, jekyll-feed]
