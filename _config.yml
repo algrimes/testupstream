@@ -20,7 +20,7 @@ kramdown:
 
 
 # Tracker
-analytics: blah
+analytics: UA-91997611-1
 
 # Comments
 disqus-shortname: testupstream
